@@ -1,0 +1,3 @@
+[submodule "lttp-rando-tracker"]
+	path = lttp-rando-tracker
+	url = https://github.com/shanehoman/lttp-rando-tracker
